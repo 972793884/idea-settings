@@ -1,0 +1,154 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/spring-framework" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="myValues">
+              <value>
+                <list size="24">
+                  <item index="0" class="java.lang.String" itemvalue="@tap" />
+                  <item index="1" class="java.lang.String" itemvalue="@tap.stop" />
+                  <item index="2" class="java.lang.String" itemvalue="@tap.prevent" />
+                  <item index="3" class="java.lang.String" itemvalue="@tap.once" />
+                  <item index="4" class="java.lang.String" itemvalue="@click" />
+                  <item index="5" class="java.lang.String" itemvalue="@click.stop" />
+                  <item index="6" class="java.lang.String" itemvalue="@click.prevent" />
+                  <item index="7" class="java.lang.String" itemvalue="@click.once" />
+                  <item index="8" class="java.lang.String" itemvalue="@change" />
+                  <item index="9" class="java.lang.String" itemvalue="@change.lazy" />
+                  <item index="10" class="java.lang.String" itemvalue="@change.number" />
+                  <item index="11" class="java.lang.String" itemvalue="@change.trim" />
+                  <item index="12" class="java.lang.String" itemvalue="v-model" />
+                  <item index="13" class="java.lang.String" itemvalue="v-for" />
+                  <item index="14" class="java.lang.String" itemvalue="v-text" />
+                  <item index="15" class="java.lang.String" itemvalue="v-html" />
+                  <item index="16" class="java.lang.String" itemvalue="v-if" />
+                  <item index="17" class="java.lang.String" itemvalue="v-else-if" />
+                  <item index="18" class="java.lang.String" itemvalue="v-else" />
+                  <item index="19" class="java.lang.String" itemvalue="v-pre" />
+                  <item index="20" class="java.lang.String" itemvalue="v-once" />
+                  <item index="21" class="java.lang.String" itemvalue="v-bind" />
+                  <item index="22" class="java.lang.String" itemvalue="scoped" />
+                  <item index="23" class="java.lang.String" itemvalue=":value" />
+                </list>
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Desktop/work/eslint" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.eslint" value="C:\Users\97279\Desktop\work\eslint" />
+        <property name="node.js.selected.package.standard" value="C:\Users\97279\Desktop\work\eslint" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <patterns />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+      </component>
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

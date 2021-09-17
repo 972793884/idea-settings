@@ -1,0 +1,57 @@
+<keymap version="1" name="myself" parent="Eclipse">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateEndpointsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift f" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="sql.SelectInDatabaseView">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+</keymap>

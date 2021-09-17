@@ -1,0 +1,16 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="theUsageCount" value="1634366503379" />
+        <option name="userMacSet">
+          <set>
+            <option value="24" />
+          </set>
+        </option>
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>

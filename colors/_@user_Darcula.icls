@@ -1,0 +1,72 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-06-12T19:04:15</property>
+    <property name="description" />
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.1.0.0</property>
+    <property name="modified">2019-05-16T17:12:22</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8413c6" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="771387" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="372fff" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffba" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="6ecc" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="c60db4" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="771387" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff22c5" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="ffd03b" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="41c619" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

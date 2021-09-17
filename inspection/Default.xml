@@ -1,0 +1,163 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="AliAccessStaticViaInstance" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AliArrayNamingShouldHaveBracket" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AliControlFlowStatementWithoutBraces" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AliDeprecation" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AliEqualsAvoidNull" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AliLongLiteralsEndingWithLowercaseL" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AliMissingOverrideAnnotation" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AliWrapperTypeEquality" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAbstractClassShouldStartWithAbstractNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAbstractMethodOrInterfaceMethodMustUseJavadoc" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidApacheBeanUtilsCopy" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidCallStaticSimpleDateFormat" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidCommentBehindStatement" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidComplexCondition" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidConcurrentCompetitionRandom" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidDoubleOrFloatEqualCompare" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidManuallyCreateThread" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidMissUseOfMathRandom" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidNegationOperator" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidNewDateGetTime" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidPatternCompileInMethod" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidReturnInFinally" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidStartWithDollarAndUnderLineNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidUseTimer" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaBigDecimalAvoidDoubleConstructor" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaBooleanPropertyShouldNotStartWithIs" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaClassCastExceptionWithSubListToArrayList" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaClassCastExceptionWithToArray" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaClassMustHaveAuthor" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaClassNamingShouldBeCamel" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaCollectionInitShouldAssignCapacity" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaCommentsMustBeJavadocFormat" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaConcurrentExceptionWithModifyOriginSubList" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaConstantFieldShouldBeUpperCase" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaCountDownShouldInFinally" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaDontModifyInForeachCircle" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaEnumConstantsMustHaveComment" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaExceptionClassShouldEndWithException" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaIbatisMethodQueryForList" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaLockShouldWithTryFinally" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaLowerCamelCaseVariableNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaMethodReturnWrapperType" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaMethodTooLong" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaPackageNaming" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaPojoMustOverrideToString" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaPojoMustUsePrimitiveField" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaPojoNoDefaultValue" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaRemoveCommentedCode" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaServiceOrDaoClassShouldEndWithImpl" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaStringConcat" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaSwitchStatement" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaTestClassShouldEndWithTestNaming" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaThreadLocalShouldRemove" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaThreadPoolCreation" enabled="false" level="BLOCKER" enabled_by_default="false" />
+  <inspection_tool class="AlibabaThreadShouldSetName" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaTransactionMustHaveRollback" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaUndefineMagicConstant" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaUnsupportedExceptionWithModifyAsList" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaUseQuietReferenceNotation" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaUseRightCaseForDateFormat" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <Languages>
+      <language minSize="273" name="Java" />
+      <language minSize="144" name="JavaScript" />
+    </Languages>
+  </inspection_tool>
+  <inspection_tool class="ES6CheckImport" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertModuleExportToExport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="HtmlNonExistentInternetResource" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlPresentationalElement" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="HtmlRequiredSummaryAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="HtmlRequiredTitleAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="26">
+          <item index="0" class="java.lang.String" itemvalue="@tap" />
+          <item index="1" class="java.lang.String" itemvalue="@tap.stop" />
+          <item index="2" class="java.lang.String" itemvalue="@tap.prevent" />
+          <item index="3" class="java.lang.String" itemvalue="@tap.once" />
+          <item index="4" class="java.lang.String" itemvalue="@click" />
+          <item index="5" class="java.lang.String" itemvalue="@click.stop" />
+          <item index="6" class="java.lang.String" itemvalue="@click.prevent" />
+          <item index="7" class="java.lang.String" itemvalue="@click.once" />
+          <item index="8" class="java.lang.String" itemvalue="@change" />
+          <item index="9" class="java.lang.String" itemvalue="@change.lazy" />
+          <item index="10" class="java.lang.String" itemvalue="@change.number" />
+          <item index="11" class="java.lang.String" itemvalue="@change.trim" />
+          <item index="12" class="java.lang.String" itemvalue="v-model" />
+          <item index="13" class="java.lang.String" itemvalue="v-for" />
+          <item index="14" class="java.lang.String" itemvalue="v-text" />
+          <item index="15" class="java.lang.String" itemvalue="v-html" />
+          <item index="16" class="java.lang.String" itemvalue="v-if" />
+          <item index="17" class="java.lang.String" itemvalue="v-else-if" />
+          <item index="18" class="java.lang.String" itemvalue="v-else" />
+          <item index="19" class="java.lang.String" itemvalue="v-pre" />
+          <item index="20" class="java.lang.String" itemvalue="v-once" />
+          <item index="21" class="java.lang.String" itemvalue="v-bind" />
+          <item index="22" class="java.lang.String" itemvalue="scoped" />
+          <item index="23" class="java.lang.String" itemvalue=":value" />
+          <item index="24" class="java.lang.String" itemvalue="operator" />
+          <item index="25" class="java.lang.String" itemvalue="checked" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="TOP_LEVEL_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="INNER_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="METHOD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+      </value>
+    </option>
+    <option name="FIELD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="IGNORE_DEPRECATED" value="false" />
+    <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+    <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+    <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+    <option name="myAdditionalJavadocTags" value="Description:,date,Param:,Date:,Author:" />
+  </inspection_tool>
+  <inspection_tool class="JavadocReference" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MapOrSetKeyShouldOverrideHashCodeEquals" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="LOCAL_VARIABLE" value="true" />
+    <option name="FIELD" value="true" />
+    <option name="METHOD" value="false" />
+    <option name="CLASS" value="true" />
+    <option name="PARAMETER" value="true" />
+    <option name="REPORT_PARAMETER_FOR_PUBLIC_METHODS" value="true" />
+    <option name="ADD_MAINS_TO_ENTRIES" value="true" />
+    <option name="ADD_APPLET_TO_ENTRIES" value="true" />
+    <option name="ADD_SERVLET_TO_ENTRIES" value="true" />
+    <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
+  </inspection_tool>
+</profile>

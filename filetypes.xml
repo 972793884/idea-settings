@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="Cas" type="JAVA" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="PageFieldMapper.xml" type="PLAIN_TEXT" />
+      <mapping pattern="Cas.java" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="TaskMapper" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="vue" approved="true" type="HTML" />
+    </extensionMap>
+  </component>
+</application>

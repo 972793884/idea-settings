@@ -1,0 +1,83 @@
+<scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-01-10T19:43:03</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.8.0.0</property>
+    <property name="modified">2021-09-15T17:37:32</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fa2894" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="df5bf3" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="372fff" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffba" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="6ecc" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="c60db4" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c604f1" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff22c5" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="ffd03b" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffba" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="41c619" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
