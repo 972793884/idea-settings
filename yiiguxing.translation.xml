@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class creates the different objects needed by the generator." />
+      <item value="This method should return a list of generated Java files related to this table. This list could include various types of model classes, as well as DAO classes." />
+      <item value="related" />
+      <item value="now run the introspections..." />
+      <item value="introspections" />
+      <item value="setup custom classloader if required" />
+      <item value="calculate" />
+      <item value="calculate the contexts to run" />
+      <item value="This callback logs progress messages with the Ant logger." />
+      <item value="Note that this class mainly exists to support the MyBatis Generator build. It is intentionally not documented and not supported." />
+      <item value="This class is used to execute an SQL script before a code generation run if necessary" />
+      <item value="necessary" />
       <item value="Overview MyBatis Generator (MBG) is a code generator for the MyBatis SQL mapping framework. MBG will introspect database tables (through JDBC DatabaseMetaData) and generate SQL Map XML files, Java model object (POJOs) that match the table, and (optionally) Java client classes that use the other generated objects." />
       <item value="Announcements:" />
       <item value="System.out.println(&quot;Surround and Unwrap me!&quot;);" />
@@ -10,7 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
