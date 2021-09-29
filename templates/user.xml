@@ -24,4 +24,35 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="vue select tree" value="&lt;template&gt;&#10;  &lt;div class=&quot;custom-tree-container&quot;&gt;&#10;    &lt;div class=&quot;block&quot;&gt;&#10;      &lt;el-tree&#10;        class=&quot;filter-tree&quot;&#10;        :data=&quot;data&quot;&#10;        node-key=&quot;id&quot;&#10;        default-expand-all&#10;        :expand-on-click-node=&quot;false&quot;&#10;        ref=&quot;tree&quot;&#10;        show-checkbox&#10;        :filter-node-method=&quot;filterNode&quot;&#10;        :render-content=&quot;renderContent&quot;&gt;&#10;      &lt;/el-tree&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;export default {&#10;  name: &quot;Menu&quot;,&#10;  data(){&#10;    return {&#10;      &#10;    }&#10;  },&#10;  methods:{&#10;    init(){&#10;      &#10;    },&#10;    renderContent(){&#10;      &#10;    },&#10;    filterNode(){&#10;      &#10;    }&#10;    &#10;  }&#10;}&#10;&lt;/script&gt;&#10;&#10;&lt;style scoped&gt;&#10;&#10;&lt;/style&gt;&#10;" description="vue select tree组件" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="MybatisOgnl" value="false" />
+      <option name="MybatisSql" value="false" />
+      <option name="MybatisXmlComment" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PROTO" value="false" />
+      <option name="PROTOTEXT" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+    </context>
+  </template>
 </templateSet>
