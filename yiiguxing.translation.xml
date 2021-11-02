@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No qualifying bean of type 'org.springframework.data.redis.core.HashOperations&lt;java.lang.String, java.lang.String, java.lang.String&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="conflicts with existing," />
       <item value="Annotation-specified" />
       <item value="Annotation-specified bean name 'worldEndorseOrderFlowTask' for bean class [hm.zxce.modules.job.task.WorldRefundOrderFlowTask] conflicts with existing, non-compatible bean definition of same name and class [hm.zxce.modules.job.task.WorldEndorseOrderFlowTask]" />
@@ -39,13 +40,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635235503295" />
+    <option name="lastTrimTime" value="1635820697334" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
