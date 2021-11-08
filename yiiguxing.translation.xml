@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="peek" />
       <item value="manual Ticket" />
       <item value="cyan" />
       <item value="faint" />
@@ -45,13 +46,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635820697334" />
+    <option name="lastTrimTime" value="1636337316059" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
