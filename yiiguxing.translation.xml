@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temp Serial No" />
+      <item value="bar Pos" />
+      <item value="officebean" />
+      <item value="serialno" />
       <item value="get Envelope" />
       <item value="assign Order Bean" />
       <item value="get Real Path" />
@@ -47,14 +51,11 @@
       <item value="Overview MyBatis Generator (MBG) is a code generator for the MyBatis SQL mapping framework. MBG will introspect database tables (through JDBC DatabaseMetaData) and generate SQL Map XML files, Java model object (POJOs) that match the table, and (optionally) Java client classes that use the other generated objects." />
       <item value="Announcements:" />
       <item value="System.out.println(&quot;Surround and Unwrap me!&quot;);" />
-      <item value="load" />
-      <item value="total Load Time" />
-      <item value="eviction Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
