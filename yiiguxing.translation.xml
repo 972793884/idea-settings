@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serialno" />
       <item value="temp Serial No" />
       <item value="bar Pos" />
       <item value="officebean" />
-      <item value="serialno" />
       <item value="get Envelope" />
       <item value="assign Order Bean" />
       <item value="get Real Path" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
