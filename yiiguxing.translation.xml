@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSUEREXC" />
+      <item value="INSUEREXCNUM" />
       <item value="serialno" />
       <item value="temp Serial No" />
       <item value="bar Pos" />
@@ -49,18 +51,17 @@
       <item value="This class is used to execute an SQL script before a code generation run if necessary" />
       <item value="necessary" />
       <item value="Overview MyBatis Generator (MBG) is a code generator for the MyBatis SQL mapping framework. MBG will introspect database tables (through JDBC DatabaseMetaData) and generate SQL Map XML files, Java model object (POJOs) that match the table, and (optionally) Java client classes that use the other generated objects." />
-      <item value="Announcements:" />
-      <item value="System.out.println(&quot;Surround and Unwrap me!&quot;);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
+        <entry key="CHINESE" value="50" />
         <entry key="ENGLISH" value="50" />
+        <entry key="LATIN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636337316059" />
+    <option name="lastTrimTime" value="1637032441807" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
