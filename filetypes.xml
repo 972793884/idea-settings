@@ -10,6 +10,7 @@
       <mapping pattern="Cas.java" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="TaskMapper" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
