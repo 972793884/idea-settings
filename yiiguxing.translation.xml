@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cash" />
+      <item value="FINANCE" />
       <item value="INSUEREXC" />
       <item value="INSUEREXCNUM" />
       <item value="serialno" />
@@ -49,13 +51,11 @@
       <item value="This callback logs progress messages with the Ant logger." />
       <item value="Note that this class mainly exists to support the MyBatis Generator build. It is intentionally not documented and not supported." />
       <item value="This class is used to execute an SQL script before a code generation run if necessary" />
-      <item value="necessary" />
-      <item value="Overview MyBatis Generator (MBG) is a code generator for the MyBatis SQL mapping framework. MBG will introspect database tables (through JDBC DatabaseMetaData) and generate SQL Map XML files, Java model object (POJOs) that match the table, and (optionally) Java client classes that use the other generated objects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
