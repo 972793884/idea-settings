@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="financecondition" />
       <item value="Cash" />
       <item value="FINANCE" />
       <item value="INSUEREXC" />
@@ -50,12 +51,11 @@
       <item value="calculate the contexts to run" />
       <item value="This callback logs progress messages with the Ant logger." />
       <item value="Note that this class mainly exists to support the MyBatis Generator build. It is intentionally not documented and not supported." />
-      <item value="This class is used to execute an SQL script before a code generation run if necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
