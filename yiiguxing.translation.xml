@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RELEASE LOCK ID" />
+      <item value="message Tail" />
       <item value="TERRACE" />
       <item value="YCABINPRICE" />
       <item value="financecondition" />
@@ -49,13 +51,11 @@
       <item value="now run the introspections..." />
       <item value="introspections" />
       <item value="setup custom classloader if required" />
-      <item value="calculate" />
-      <item value="calculate the contexts to run" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
