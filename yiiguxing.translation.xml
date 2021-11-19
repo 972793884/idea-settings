@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
       <item value="RELEASE LOCK ID" />
       <item value="message Tail" />
       <item value="TERRACE" />
@@ -36,7 +37,6 @@
       <item value="drop Down Visible" />
       <item value="Whether resources are filtered to replace tokens with parameterised values or not. The values are taken from the &amp;lt;code&amp;gt;properties&amp;lt;code&amp;gt; element and from the properties in the files listed in the &amp;lt;code&amp;gt;filters&amp;lt;code&amp;gt; element" />
       <item value="Whether any configuration should be propagated to child POMs" />
-      <item value="specified" />
       <item value="filtering" />
       <item value="includes" />
       <item value="excludes" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
