@@ -15,8 +15,8 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.java```</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
     <mask>*.xml</mask>
   </component>
 </application>

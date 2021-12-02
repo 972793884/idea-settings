@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blockorder" />
       <item value="set Insuregain" />
       <item value="Bail" />
       <item value="terracetype" />
@@ -50,12 +51,11 @@
       <item value="filtering" />
       <item value="includes" />
       <item value="excludes" />
-      <item value="Failure to find hm.zxce:tmc:pom:1.0.0 in https:oss.sonatype.orgcontentrepositoriessnapshots was cached in the local repository, resolution will not be reattempted until the update interval of maven-snapshot has elapsed or updates are forced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
