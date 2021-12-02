@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loss due to the next object alignment" />
       <item value="blockorder" />
       <item value="set Insuregain" />
       <item value="Bail" />
@@ -50,12 +51,11 @@
       <item value="Whether any configuration should be propagated to child POMs" />
       <item value="filtering" />
       <item value="includes" />
-      <item value="excludes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
