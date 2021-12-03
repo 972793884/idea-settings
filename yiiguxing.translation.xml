@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Condition" />
       <item value="Finance Payment" />
       <item value="loss due to the next object alignment" />
       <item value="blockorder" />
@@ -50,12 +51,11 @@
       <item value="drop Down Visible" />
       <item value="Whether resources are filtered to replace tokens with parameterised values or not. The values are taken from the &amp;lt;code&amp;gt;properties&amp;lt;code&amp;gt; element and from the properties in the files listed in the &amp;lt;code&amp;gt;filters&amp;lt;code&amp;gt; element" />
       <item value="Whether any configuration should be propagated to child POMs" />
-      <item value="filtering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
