@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluent Put" />
       <item value="add Finance History" />
       <item value="upadate Ffrrpnumber" />
       <item value="process File" />
@@ -50,12 +51,11 @@
       <item value="Notification Client Config" />
       <item value="No qualifying bean of type 'org.springframework.data.redis.core.HashOperations&lt;java.lang.String, java.lang.String, java.lang.String&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="conflicts with existing," />
-      <item value="Annotation-specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638931651779" />
+    <option name="lastTrimTime" value="1640241600825" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
