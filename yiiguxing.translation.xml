@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous" />
       <item value="currency" />
       <item value="This annotation specifies that the property or field is not persistent. It is used to annotate a property or field of an entity class, mapped superclass, or embeddable class." />
       <item value="fluent Put" />
@@ -50,12 +51,11 @@
       <item value="cyan" />
       <item value="faint" />
       <item value="magenta" />
-      <item value="Notification Client Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
