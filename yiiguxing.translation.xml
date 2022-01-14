@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issue Order No" />
       <item value="agent" />
       <item value="add Order Channel Price" />
       <item value="ambiguous" />
@@ -50,12 +51,11 @@
       <item value="minus Loading" />
       <item value="peek" />
       <item value="manual Ticket" />
-      <item value="cyan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
