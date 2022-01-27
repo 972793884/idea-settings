@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Events With" />
       <item value="excludes" />
       <item value="multiply" />
       <item value="divide" />
@@ -50,12 +51,11 @@
       <item value="officebean" />
       <item value="get Envelope" />
       <item value="assign Order Bean" />
-      <item value="get Real Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642579032488" />
+    <option name="lastTrimTime" value="1643272220764" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
