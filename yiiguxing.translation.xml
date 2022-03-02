@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="virtual" />
       <item value="divide" />
       <item value="get Had Clear Channel Order Nos" />
       <item value="had Clear Channel Order Nos" />
@@ -50,12 +51,11 @@
       <item value="set Insuregain" />
       <item value="Bail" />
       <item value="terracetype" />
-      <item value="terrace Supplier Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645408296800" />
+    <option name="lastTrimTime" value="1646207499192" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
