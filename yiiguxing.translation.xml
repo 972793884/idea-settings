@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is Calculate" />
       <item value="XML fragments parsed from previous mappers already contains value for com.trip.finance.refund.persistence.PlatformEndorseCusPriceMapper.myQueryCondition" />
       <item value="virtual" />
       <item value="divide" />
@@ -50,12 +51,11 @@
       <item value="loss due to the next object alignment" />
       <item value="blockorder" />
       <item value="set Insuregain" />
-      <item value="Bail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646207499192" />
+    <option name="lastTrimTime" value="1646708827892" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
