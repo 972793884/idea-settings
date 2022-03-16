@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recordable" />
+      <item value="reactive" />
       <item value="Listening to page changes and dynamically changing site titles" />
       <item value="bootstrap" />
       <item value="mount" />
@@ -49,13 +51,11 @@
       <item value="upadate Ffrrpnumber" />
       <item value="process File" />
       <item value="combining" />
-      <item value="balances" />
-      <item value="finnace Least" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646708827892" />
+    <option name="lastTrimTime" value="1647418008478" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
