@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SELECT id,cusId, null as vendorId ,null as vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_cus_account UNION ALL SELECT id,null as cusId ,vendorId, null as vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_vendor_account UNION ALL SELECT id,null as cusId ,null as vendorId, vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_vcc_account where 1=1 and businessType=1 and status=0 order by applyTime limit ?,?" />
       <item value="notification" />
       <item value="multiply" />
       <item value="Autowired" />
@@ -50,7 +51,6 @@
       <item value="ambiguous" />
       <item value="currency" />
       <item value="This annotation specifies that the property or field is not persistent. It is used to annotate a property or field of an entity class, mapped superclass, or embeddable class." />
-      <item value="fluent Put" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647418008478" />
+    <option name="lastTrimTime" value="1647938527182" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
