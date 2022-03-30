@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deploy" />
+      <item value="preperation" />
       <item value="SELECT id,cusId, null as vendorId ,null as vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_cus_account UNION ALL SELECT id,null as cusId ,vendorId, null as vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_vendor_account UNION ALL SELECT id,null as cusId ,null as vendorId, vccId,accountNo,businessTradeNo,businessType,tradeAmt,tmemo,voucherUrl,accountTradeNo,applyTime,applier,approveTime,approver,`status` ,approveReason,ticketSequence from business_trade_vcc_account where 1=1 and businessType=1 and status=0 order by applyTime limit ?,?" />
       <item value="notification" />
       <item value="multiply" />
@@ -49,13 +51,11 @@
       <item value="agent" />
       <item value="add Order Channel Price" />
       <item value="ambiguous" />
-      <item value="currency" />
-      <item value="This annotation specifies that the property or field is not persistent. It is used to annotate a property or field of an entity class, mapped superclass, or embeddable class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647938527182" />
+    <option name="lastTrimTime" value="1648630338036" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
