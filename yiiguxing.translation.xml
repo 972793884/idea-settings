@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Media Type" />
       <item value="multiply" />
       <item value="gap" />
       <item value="combination Sum" />
@@ -50,12 +51,11 @@
       <item value="excludes" />
       <item value="Message Digest" />
       <item value="adjust" />
-      <item value="segment Amt Configs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649215385693" />
+    <option name="lastTrimTime" value="1649747638641" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
