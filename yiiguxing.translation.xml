@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="lo Head" />
       <item value="lo Tail" />
+      <item value="lo Head" />
       <item value="preserve order" />
       <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices. @param map the map @param tab the table for recording bin heads @param index the index of the table being split @param bit the bit of hash to split on" />
       <item value="MAXIMUM CAPACITY" />
@@ -59,7 +59,7 @@
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
       </map>
     </option>
   </component>
