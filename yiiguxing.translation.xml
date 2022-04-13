@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forms tree of the nodes linked from this node." />
+      <item value="balance Insertion" />
+      <item value="treeify" />
+      <item value="Replaces all linked nodes in bin at index for given hash unless table is too small, in which case resizes instead." />
       <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices. @param map the map @param tab the table for recording bin heads @param index the index of the table being split @param bit the bit of hash to split on" />
       <item value="Initializes or doubles table size. If null, allocates in accord with initial capacity target held in field threshold. Otherwise, because we are using power-of-two expansion, the elements from each bin must either stay at same index, or move with a power of two offset in the new table." />
       <item value="lo Tail" />
@@ -17,7 +21,6 @@
       <item value="The number of times this HashMap has been structurally modified Structural modifications are those that change the number of mappings in the HashMap or otherwise modify its internal structure (e.g., rehash). This field is used to make iterators on Collection-views of the HashMap fail-fast. (See ConcurrentModificationException)." />
       <item value="mod Count" />
       <item value="check Invariants" />
-      <item value="balance Insertion" />
       <item value="Red-black tree methods, all adapted from CLR" />
       <item value="adapted" />
       <item value="rotate Right" />
@@ -48,14 +51,11 @@
       <item value="Listening to page changes and dynamically changing site titles" />
       <item value="bootstrap" />
       <item value="mount" />
-      <item value="dark" />
-      <item value="transition" />
-      <item value="Is Calculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
