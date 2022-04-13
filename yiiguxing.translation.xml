@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lo Head" />
+      <item value="lo Tail" />
+      <item value="preserve order" />
+      <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices. @param map the map @param tab the table for recording bin heads @param index the index of the table being split @param bit the bit of hash to split on" />
+      <item value="MAXIMUM CAPACITY" />
       <item value="initial capacity was placed in threshold" />
       <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="MAXIMUM CAPACITY" />
       <item value="previous" />
       <item value="@param evict if false, the table is in creation mode." />
       <item value="evict" />
@@ -47,18 +51,15 @@
       <item value="transition" />
       <item value="Is Calculate" />
       <item value="XML fragments parsed from previous mappers already contains value for com.trip.finance.refund.persistence.PlatformEndorseCusPriceMapper.myQueryCondition" />
-      <item value="virtual" />
-      <item value="divide" />
-      <item value="get Had Clear Channel Order Nos" />
-      <item value="had Clear Channel Order Nos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="165" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
+        <entry key="SPANISH" value="2" />
       </map>
     </option>
   </component>
