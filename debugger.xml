@@ -87,6 +87,10 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.HashMap$Node[]" />
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="hm.zxce.config.auth.LoginedUserEntity" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="hm.zxce.config.auth.LoginedUserEntity" />
@@ -97,6 +101,9 @@
         </Renderer>
       </Renderer>
     </CustomRenderers>
+  </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
