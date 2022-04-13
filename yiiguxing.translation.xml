@@ -1,9 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial capacity was placed in threshold" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="previous" />
+      <item value="@param evict if false, the table is in creation mode." />
+      <item value="evict" />
+      <item value="capacity" />
+      <item value="The next size value at which to resize (capacity load factor)." />
+      <item value="The number of times this HashMap has been structurally modified Structural modifications are those that change the number of mappings in the HashMap or otherwise modify its internal structure (e.g., rehash). This field is used to make iterators on Collection-views of the HashMap fail-fast. (See ConcurrentModificationException)." />
+      <item value="mod Count" />
+      <item value="check Invariants" />
+      <item value="balance Insertion" />
+      <item value="Red-black tree methods, all adapted from CLR" />
+      <item value="adapted" />
+      <item value="rotate Right" />
+      <item value="COMMON" />
       <item value="transient" />
       <item value="evict if false, the table is in creation mode." />
-      <item value="evict" />
       <item value="only If Absent" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by {@link java.util.HashMap}. &lt;p&gt; The general contract of {@code hashCode} is: &lt;ul&gt; &lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application. &lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables. &lt;ul&gt; &lt;p&gt; As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.) @return a hash code value for this object. @see java.lang.Objectequals(java.lang.Object) @see java.lang.SystemidentityHashCode" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by" />
@@ -36,26 +51,11 @@
       <item value="divide" />
       <item value="get Had Clear Channel Order Nos" />
       <item value="had Clear Channel Order Nos" />
-      <item value="total Tax Price" />
-      <item value="repair Lose Order" />
-      <item value="again Clear Amt Order" />
-      <item value="Compares this object with the specified object for order. Returns a negative integer, zero, or a positive integer as this object is less than, equal to, or greater than the specified object. &lt;p&gt;The implementor must ensure &lt;tt&gt;sgn(x.compareTo(y)) == -sgn(y.compareTo(x))&lt;tt&gt; for all &lt;tt&gt;x&lt;tt&gt; and &lt;tt&gt;y&lt;tt&gt;. (This implies that &lt;tt&gt;x.compareTo(y)&lt;tt&gt; must throw an exception iff &lt;tt&gt;y.compareTo(x)&lt;tt&gt; throws an exception.) &lt;p&gt;The implementor must also ensure that the relation is transitive: &lt;tt&gt;(x.compareTo(y)&amp;gt;0 &amp;amp;&amp;amp; y.compareTo(z)&amp;gt;0)&lt;tt&gt; implies &lt;tt&gt;x.compareTo(z)&amp;gt;0&lt;tt&gt;. &lt;p&gt;Finally, the implementor must ensure that &lt;tt&gt;x.compareTo(y)==0&lt;tt&gt; implies that &lt;tt&gt;sgn(x.compareTo(z)) == sgn(y.compareTo(z))&lt;tt&gt;, for all &lt;tt&gt;z&lt;tt&gt;. &lt;p&gt;It is strongly recommended, but &lt;i&gt;not&lt;i&gt; strictly required that &lt;tt&gt;(x.compareTo(y)==0) == (x.equals(y))&lt;tt&gt;. Generally speaking, any class that implements the &lt;tt&gt;Comparable&lt;tt&gt; interface and violates this condition should clearly indicate this fact. The recommended language is &quot;Note: this class has a natural ordering that is inconsistent with equals.&quot; &lt;p&gt;In the foregoing description, the notation &lt;tt&gt;sgn(&lt;tt&gt;&lt;i&gt;expression&lt;i&gt;&lt;tt&gt;)&lt;tt&gt; designates the mathematical &lt;i&gt;signum&lt;i&gt; function, which is defined to return one of &lt;tt&gt;-1&lt;tt&gt;, &lt;tt&gt;0&lt;tt&gt;, or &lt;tt&gt;1&lt;tt&gt; according to whether the value of &lt;i&gt;expression&lt;i&gt; is negative, zero or positive. @param o the object to be compared. @return a negative integer, zero, or a positive integer as this object is less than, equal to, or greater than the specified object. @throws NullPointerException if the specified object is null @throws ClassCastException if the specified object's type prevents it from being compared to this object." />
-      <item value="transfer To" />
-      <item value="get Original Filename" />
-      <item value="unresolvable" />
-      <item value="is Blank" />
-      <item value="Finance Business Trade" />
-      <item value="Mixture" />
-      <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;strong&gt; until a next signal is received. Returns that value, or null if the Mono completes empty. In case the Mono errors, the original exception is thrown (wrapped in a {@link RuntimeException} if it was a checked exception). &lt;p&gt; &lt;img class=&quot;marble&quot; src=&quot;doc-filesmarblesblock.svg&quot; alt=&quot;&quot;&gt; &lt;p&gt; Note that each block() will trigger a new subscription: in other words, the result might miss signal from hot publishers. @return T the result" />
-      <item value="Authentication Entry Point" />
-      <item value="management" />
-      <item value="exposure" />
-      <item value="authorities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
