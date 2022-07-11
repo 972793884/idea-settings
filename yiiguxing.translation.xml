@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="access" />
       <item value="Circle" />
       <item value="size Circle" />
       <item value="concrete" />
@@ -50,12 +51,11 @@
       <item value="only If Absent" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by {@link java.util.HashMap}. &lt;p&gt; The general contract of {@code hashCode} is: &lt;ul&gt; &lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application. &lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables. &lt;ul&gt; &lt;p&gt; As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.) @return a hash code value for this object. @see java.lang.Objectequals(java.lang.Object) @see java.lang.SystemidentityHashCode" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by" />
-      <item value="benefit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -64,13 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650362465997" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1657526679706" />
   </component>
 </application>
