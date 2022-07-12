@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set whether any jobs defined on this SchedulerFactoryBean should overwrite existing job definitions. Default is &quot;false&quot;, to not overwrite already registered jobs that have been read in from a persistent job store." />
       <item value="type Aliases Package" />
       <item value="inventory Auto" />
       <item value="inventory" />
@@ -50,12 +51,11 @@
       <item value="capacity" />
       <item value="The next size value at which to resize (capacity load factor)." />
       <item value="The number of times this HashMap has been structurally modified Structural modifications are those that change the number of mappings in the HashMap or otherwise modify its internal structure (e.g., rehash). This field is used to make iterators on Collection-views of the HashMap fail-fast. (See ConcurrentModificationException)." />
-      <item value="mod Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
