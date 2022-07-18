@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ignore Auth" />
       <item value="is Pre Flight Request" />
       <item value="This {@code doFilter} implementation stores a request attribute for &quot;already filtered&quot;, proceeding without filtering again if the attribute is already there. @see getAlreadyFilteredAttributeName @see shouldNotFilter @see doFilterInternal" />
       <item value="do Filter Internal" />
@@ -50,12 +51,11 @@
       <item value="MAXIMUM CAPACITY" />
       <item value="initial capacity was placed in threshold" />
       <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="previous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
