@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type handler was null on parameter mapping for property 'params'. It was either not specified andor could not be found for the javaType (java.util.Map) : jdbcType (null) combination." />
+      <item value="Transient" />
       <item value="store id" />
       <item value="Ignore Auth" />
       <item value="is Pre Flight Request" />
@@ -49,13 +51,11 @@
       <item value="lo Tail" />
       <item value="lo Head" />
       <item value="preserve order" />
-      <item value="MAXIMUM CAPACITY" />
-      <item value="initial capacity was placed in threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
