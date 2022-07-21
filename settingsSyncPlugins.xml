@@ -42,6 +42,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.bruce.intellijplugin.generatesetter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.ccnode.codegenerator.MyBatisCodeHelperPro">
           <value>
             <PluginData>
@@ -60,6 +71,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.lilittlecat.generate-all-getter-and-setter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
