@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credits" />
       <item value="select Loan By Id" />
       <item value="Type handler was null on parameter mapping for property 'params'. It was either not specified andor could not be found for the javaType (java.util.Map) : jdbcType (null) combination." />
       <item value="Transient" />
@@ -50,12 +51,11 @@
       <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices. @param map the map @param tab the table for recording bin heads @param index the index of the table being split @param bit the bit of hash to split on" />
       <item value="Initializes or doubles table size. If null, allocates in accord with initial capacity target held in field threshold. Otherwise, because we are using power-of-two expansion, the elements from each bin must either stay at same index, or move with a power of two offset in the new table." />
       <item value="lo Tail" />
-      <item value="lo Head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
