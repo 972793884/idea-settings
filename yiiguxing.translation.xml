@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="displacement" />
       <item value="the number of threads in the pool" />
       <item value="millis" />
       <item value="truncate" />
@@ -50,12 +51,11 @@
       <item value="balance Deletion" />
       <item value="Recursive invariant check" />
       <item value="bins" />
-      <item value="Forms tree of the nodes linked from this node." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
