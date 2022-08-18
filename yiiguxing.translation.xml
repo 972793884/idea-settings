@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="banner" />
+      <item value="special" />
       <item value="displacement" />
       <item value="the number of threads in the pool" />
       <item value="millis" />
@@ -49,13 +51,11 @@
       <item value="Removes the given node, that must be present before this call. This is messier than typical red-black deletion code because we cannot swap the contents of an interior node with a leaf successor that is pinned by &quot;next&quot; pointers that are accessible independently during traversal. So instead we swap the tree linkages. If the current tree appears to have too few nodes, the bin is converted back to a plain bin. (The test triggers somewhere between 2 and 6 nodes, depending on tree structure)." />
       <item value="balance Insertion" />
       <item value="balance Deletion" />
-      <item value="Recursive invariant check" />
-      <item value="bins" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
