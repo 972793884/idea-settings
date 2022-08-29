@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the quality of service for this message. &lt;ul&gt; &lt;li&gt;Quality of Service 0 - indicates that a message should be delivered at most once (zero or one times). The message will not be persisted to disk, and will not be acknowledged across the network. This QoS is the fastest, but should only be used for messages which are not valuable - note that if the server cannot process the message (for example, there is an authorization problem), then an {@link MqttCallbackdeliveryComplete(IMqttDeliveryToken)}. Also known as &quot;fire and forget&quot;.&lt;li&gt; &lt;li&gt;Quality of Service 1 - indicates that a message should be delivered at least once (one or more times). The message can only be delivered safely if it can be persisted, so the application must supply a means of persistence using &lt;code&gt;MqttConnectOptions&lt;code&gt;. If a persistence mechanism is not specified, the message will not be delivered in the event of a client failure. The message will be acknowledged across the network. This is the default QoS.&lt;li&gt; &lt;li&gt;Quality of Service 2 - indicates that a message should be delivered once. The message will be persisted to disk, and will be subject to a two-phase acknowledgement across the network. The message can only be delivered safely if it can be persisted, so the application must supply a means of persistence using &lt;code&gt;MqttConnectOptions&lt;code&gt;. If a persistence mechanism is not specified, the message will not be delivered in the event of a client failure.&lt;li&gt; &lt;ul&gt; If persistence is not configured, QoS 1 and 2 messages will still be delivered in the event of a network or server problem as the client will hold state in memory. If the MQTT client is shutdown or fails and persistence is not configured then delivery of QoS 1 and 2 messages can not be maintained as client-side state will be lost. @param qos the &quot;quality of service&quot; to use. Set to 0, 1, 2. @throws IllegalArgumentException if value of QoS is not 0, 1 or 2. @throws IllegalStateException if this message cannot be edited" />
       <item value="banner" />
       <item value="special" />
       <item value="displacement" />
@@ -50,12 +51,11 @@
       <item value="Returns a list of non-TreeNodes replacing those linked from this node." />
       <item value="Removes the given node, that must be present before this call. This is messier than typical red-black deletion code because we cannot swap the contents of an interior node with a leaf successor that is pinned by &quot;next&quot; pointers that are accessible independently during traversal. So instead we swap the tree linkages. If the current tree appears to have too few nodes, the bin is converted back to a plain bin. (The test triggers somewhere between 2 and 6 nodes, depending on tree structure)." />
       <item value="balance Insertion" />
-      <item value="balance Deletion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660533165233" />
+    <option name="lastTrimTime" value="1661762914605" />
   </component>
 </application>
