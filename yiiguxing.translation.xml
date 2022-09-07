@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUTHENTICATE HEADER" />
+      <item value="authorization" />
+      <item value="challenge" />
+      <item value="Builds the challenge for authorization by setting a HTTP &lt;code&gt;401&lt;code&gt; (Unauthorized) status as well as the response's {@link AUTHENTICATE_HEADER AUTHENTICATE_HEADER}. &lt;p&gt; The header value constructed is equal to: &lt;p&gt; &lt;code&gt;{@link getAuthcScheme() getAuthcScheme()} + &quot; realm=\&quot;&quot; + {@link getApplicationName() getApplicationName()} + &quot;\&quot;&quot;;&lt;code&gt; @param request incoming ServletRequest, ignored by this implementation @param response outgoing ServletResponse @return false - this sends the challenge to be sent back" />
       <item value="send Challenge" />
       <item value="Lifecycle Bean Post Processor" />
       <item value="is Access Allowed" />
@@ -47,15 +51,11 @@
       <item value="size Circle" />
       <item value="concrete" />
       <item value="Create a predicate for testing the arguments for equality. @param x expression @param y object @return equality predicate" />
-      <item value="create Query" />
-      <item value="get Criteria Builder" />
-      <item value="flag" />
-      <item value="assignable From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
