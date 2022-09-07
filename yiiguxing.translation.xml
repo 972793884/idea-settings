@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Challenge" />
+      <item value="Lifecycle Bean Post Processor" />
       <item value="is Access Allowed" />
       <item value="Unauthorized Exception" />
       <item value="捕捉Unauthorized Exception" />
@@ -49,13 +51,11 @@
       <item value="get Criteria Builder" />
       <item value="flag" />
       <item value="assignable From" />
-      <item value="detach" />
-      <item value="get Related Form Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
