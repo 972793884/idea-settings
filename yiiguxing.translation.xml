@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unrecognized" />
       <item value="Duty" />
       <item value="CLIENT ERROR" />
       <item value="REDIRECTION" />
@@ -50,12 +51,11 @@
       <item value="finance" />
       <item value="applet" />
       <item value="advertise" />
-      <item value="access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
