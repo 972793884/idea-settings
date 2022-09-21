@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean Post Processors" />
+      <item value="eligible" />
+      <item value="not eligible for auto-proxying" />
       <item value="recognize Business License" />
       <item value="assert As String" />
       <item value="Tea Exception" />
@@ -48,14 +51,11 @@
       <item value="inventory Auto" />
       <item value="inventory" />
       <item value="chip" />
-      <item value="bill" />
-      <item value="apply" />
-      <item value="inform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663218421022" />
+    <option name="lastTrimTime" value="1663737607057" />
   </component>
 </application>
