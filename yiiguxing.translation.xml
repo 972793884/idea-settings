@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid To Date" />
       <item value="Bean Post Processors" />
       <item value="eligible" />
       <item value="not eligible for auto-proxying" />
@@ -50,12 +51,11 @@
       <item value="type Aliases Package" />
       <item value="inventory Auto" />
       <item value="inventory" />
-      <item value="chip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
