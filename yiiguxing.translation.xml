@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
+      <item value="Abstract adapter class for the {@link AsyncHandlerInterceptor} interface, for simplified implementation of pre-onlypost-only interceptors. @author Juergen Hoeller @since 05.12.2003 @deprecated as of 5.3 in favor of implementing {@link HandlerInterceptor} andor {@link AsyncHandlerInterceptor} directly." />
       <item value="Relying upon circular references is discouraged and they are prohibited by default. Update your application to remove the dependency cycle between beans. As a last resort, it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true." />
       <item value="{&quot;ENTERPRISE_BUSINESS_CARD_OCR_STATUS&quot;: &quot;艾科瑞特，让企业业绩长青&quot;, &quot;ENTERPRISE_NAME_CH&quot;: &quot;天津双信诚工程机械租赁有限公司&quot;, &quot;ENTERPRISE_STATUS&quot;: &quot;存续&quot;, &quot;ENTERPRISE_REGISTER_ID&quot;: &quot;&quot;, &quot;ENTERPRISE_ID&quot;: &quot;91120110MA06902D08&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS&quot;: &quot;天津市西青区大寺镇南里八口村津港公路与芦北路交口往南200米&quot;, &quot;ENTERPRISE_COUNTRY_ID&quot;: &quot;120111&quot;, &quot;ENTERPRISE_PROVINCE&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_CITY&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_DISTRICT&quot;: &quot;西青区&quot;, &quot;ENTERPRISE_BANK_ADDRESS&quot;: &quot;天津市西青区大寺镇南里八口村津港公路与芦北路交口往南200米&quot;, &quot;ENTERPRISE_TEL&quot;: &quot;&quot;, &quot;ENTERPRISE_BANK_NAME&quot;: &quot;&quot;, &quot;ENTERPRISE_BANK_COUNTRY_ID&quot;: &quot;120111&quot;, &quot;ENTERPRISE_BANK_PROVINCE&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_BANK_CITY&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_BANK_DISTRICT&quot;: &quot;西青区&quot;, &quot;ENTERPRISE_BANK_ID&quot;: &quot;&quot;, &quot;ENTERPRISE_OWNER&quot;: &quot;刘波&quot;, &quot;ENTERPRISE_CAPITAL&quot;: &quot;50万元&quot;, &quot;ENTERPRISE_TIME&quot;: &quot;2017年12月14日&quot;, &quot;ENTERPRISE_TYPE&quot;: &quot;有限责任公司(自然人独资)&quot;, &quot;ENTERPRISE_INDUSTRY&quot;: &quot;&quot;, &quot;ENTERPRISE_ORGANIZATION&quot;: &quot;&quot;, &quot;ENTERPRISE_USED_NAME&quot;: &quot;&quot;, &quot;ENTERPRISE_NAME_EN&quot;: &quot;&quot;, &quot;ENTERPRISE_INSURED&quot;: &quot;&quot;, &quot;ENTERPRISE_PEOPLE&quot;: &quot;&quot;, &quot;ENTERPRISE_SCOPE&quot;: &quot;&quot;, &quot;ENTERPRISE_VALID_DATE_START&quot;: &quot;2017年12月14日&quot;, &quot;ENTERPRISE_VALID_DATE_END&quot;: &quot;长期&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS_CITY&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS_DISTRICT&quot;: &quot;西青区&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS_FORMAT_ADDRESS&quot;: &quot;天津市西青区大寺镇南里八口村津港公路芦北路&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS_GPS&quot;: &quot;117.253232,39.001478&quot;, &quot;ENTERPRISE_REGISTER_ADDRESS_PROVINCE&quot;: &quot;天津市&quot;, &quot;ENTERPRISE_TAXPAYER_REGISTER_ID&quot;: &quot;91120110MA06902D08&quot;, &quot;ENTERPRISE_UNIVERSAL_CREDIT_ID_AGENCY_CODE&quot;: &quot;MA06902D-0&quot;}" />
       <item value="valid To Date" />
@@ -49,13 +51,11 @@
       <item value="do Filter Internal" />
       <item value="focus Cleanup" />
       <item value="overflow" />
-      <item value="Set whether any jobs defined on this SchedulerFactoryBean should overwrite existing job definitions. Default is &quot;false&quot;, to not overwrite already registered jobs that have been read in from a persistent job store." />
-      <item value="type Aliases Package" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
