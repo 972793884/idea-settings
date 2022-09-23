@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow Credentials" />
       <item value="deprecated" />
       <item value="Abstract adapter class for the {@link AsyncHandlerInterceptor} interface, for simplified implementation of pre-onlypost-only interceptors. @author Juergen Hoeller @since 05.12.2003 @deprecated as of 5.3 in favor of implementing {@link HandlerInterceptor} andor {@link AsyncHandlerInterceptor} directly." />
       <item value="Relying upon circular references is discouraged and they are prohibited by default. Update your application to remove the dependency cycle between beans. As a last resort, it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true." />
@@ -50,12 +51,11 @@
       <item value="This {@code doFilter} implementation stores a request attribute for &quot;already filtered&quot;, proceeding without filtering again if the attribute is already there. @see getAlreadyFilteredAttributeName @see shouldNotFilter @see doFilterInternal" />
       <item value="do Filter Internal" />
       <item value="focus Cleanup" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="IRISH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="SLOVENIAN" value="1" />
