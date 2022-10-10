@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Most Credible Location" />
       <item value="allow Credentials" />
       <item value="deprecated" />
       <item value="Abstract adapter class for the {@link AsyncHandlerInterceptor} interface, for simplified implementation of pre-onlypost-only interceptors. @author Juergen Hoeller @since 05.12.2003 @deprecated as of 5.3 in favor of implementing {@link HandlerInterceptor} andor {@link AsyncHandlerInterceptor} directly." />
@@ -50,7 +51,6 @@
       <item value="is Pre Flight Request" />
       <item value="This {@code doFilter} implementation stores a request attribute for &quot;already filtered&quot;, proceeding without filtering again if the attribute is already there. @see getAlreadyFilteredAttributeName @see shouldNotFilter @see doFilterInternal" />
       <item value="do Filter Internal" />
-      <item value="focus Cleanup" />
     </histories>
     <option name="languageScores">
       <map>
