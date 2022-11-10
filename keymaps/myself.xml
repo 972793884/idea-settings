@@ -61,6 +61,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
+  <action id="MybatisSupportFromDatabaseGroup">
+    <keyboard-shortcut first-keystroke="alt numpad9" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
