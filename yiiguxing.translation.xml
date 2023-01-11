@@ -66,4 +66,15 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1663737607057" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1673418534328" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Gloable" />
+    </histories>
+  </component>
 </application>
