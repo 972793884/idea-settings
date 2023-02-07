@@ -67,14 +67,21 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673418534328" />
+    <option name="lastTrimTime" value="1675735765134" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="rent" />
       <item value="Gloable" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
