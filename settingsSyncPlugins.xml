@@ -114,6 +114,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.lilittlecat.generate-all-getter-and-setter">
           <value>
             <PluginData>

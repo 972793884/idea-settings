@@ -13,6 +13,8 @@
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="TaskMapper" type="XML" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
