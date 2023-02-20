@@ -67,13 +67,15 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676278182411" />
+    <option name="lastTrimTime" value="1676884090348" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Rent Out Date" />
+      <item value="get Tenancy End Time" />
       <item value="normal Car" />
       <item value="abnormal Car" />
       <item value="rent" />
@@ -81,8 +83,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
