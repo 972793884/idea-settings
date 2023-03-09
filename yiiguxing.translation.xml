@@ -67,13 +67,16 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676884090348" />
+    <option name="lastTrimTime" value="1678345061267" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Write Slash As Special" />
+      <item value="Disable Circular Reference Detect" />
+      <item value="Pretty Format" />
       <item value="get Rent Out Date" />
       <item value="get Tenancy End Time" />
       <item value="normal Car" />
@@ -83,8 +86,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
