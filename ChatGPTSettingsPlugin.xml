@@ -1,0 +1,9 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="email" value="972793884@qq.com" />
+    <option name="password" value="zzq5201314" />
+    <option name="proxyType" value="SOCKS" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="1080" />
+  </component>
+</application>
