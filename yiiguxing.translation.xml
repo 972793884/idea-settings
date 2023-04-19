@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Specify a repeat interval in minutes - which will then be multiplied by 60 1000 to produce milliseconds. Params: intervalInMinutes – the number of seconds at which the trigger should repeat. Returns: the updated SimpleScheduleBuilder See Also: SimpleTrigger.getRepeatInterval(), withRepeatCount(int)" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections @jls 5.1.1 and @jls 5.1.4, for details. Params: cls – the Class object to be checked Returns: the boolean value indicating whether objects of the type cls can be assigned to objects of this class Throws: NullPointerException – if the specified Class parameter is null." />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections @jls 5.1.1 and @jls 5.1.4, for details. Params: cls – the Class object to be checked Returns: the boolean value indicating whether objects of the type cls can be assigned to objects of this class Throws: NullPointerException – if the specified Class parameter is null. Since: 1.1" />
       <item value="Buffered Writer" />
@@ -91,8 +92,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
