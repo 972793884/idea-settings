@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="data Base Time Expression" />
       <item value="Announcement Service" />
       <item value="Annotation retention policy. The constants of this enumerated class describe the various policies for retaining annotations. They are used in conjunction with the Retention meta-annotation interface to specify how long annotations are to be retained." />
       <item value="Indicates how long annotations with the annotated interface are to be retained. If no Retention annotation is present on an annotation interface declaration, the retention policy defaults to RetentionPolicy.CLASS. A Retention meta-annotation has effect only if the meta-annotated interface is used directly for annotation. It has no effect if the meta-annotated interface is used as a member interface in another annotation interface." />
@@ -98,8 +99,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
