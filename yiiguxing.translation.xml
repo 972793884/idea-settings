@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683279790163" />
+    <option name="lastTrimTime" value="1685069322707" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get To Day" />
       <item value="data Base Time Expression" />
       <item value="Announcement Service" />
       <item value="Annotation retention policy. The constants of this enumerated class describe the various policies for retaining annotations. They are used in conjunction with the Retention meta-annotation interface to specify how long annotations are to be retained." />
@@ -99,8 +100,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
