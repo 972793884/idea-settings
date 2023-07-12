@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="initials" />
       <item value="additivity" />
       <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this Subject is anonymous because it doesn't yet have any associated account data (for example, if they haven't logged in). &lt;p&gt; The term &lt;em&gt;principal&lt;em&gt; is just a fancy security term for any identifying attribute(s) of an application user, such as a username, or user id, or public key, or anything else you might use in your application to identify a user. &lt;h4&gt;Uniqueness&lt;h4&gt; Although given names and family names (firstlast) are technically considered principals as well, Shiro expects the object returned from this method to be an identifying attribute unique across your entire application. &lt;p&gt; This implies that things like given names and family names are usually poor candidates as return values since they are rarely guaranteed to be unique; Things often used for this value: &lt;ul&gt; &lt;li&gt;A {@code long} RDBMS surrogate primary key&lt;li&gt; &lt;li&gt;An application-unique username&lt;li&gt; &lt;li&gt;A {@link java.util.UUID UUID}&lt;li&gt; &lt;li&gt;An LDAP Unique ID&lt;li&gt; &lt;ul&gt; or any other similar suitable unique mechanism valuable to your application. &lt;p&gt; Most implementations will simply return &lt;code&gt;{@link getPrincipals()}.{@link org.apache.shiro.subject.PrincipalCollectiongetPrimaryPrincipal() getPrimaryPrincipal()}&lt;code&gt; @return this Subject's application-specific unique identity. @see org.apache.shiro.subject.PrincipalCollectiongetPrimaryPrincipal()" />
       <item value="several" />
@@ -103,8 +104,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
