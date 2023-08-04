@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="admission" />
       <item value="Direct" />
       <item value="supplementary" />
       <item value="Post Construct" />
@@ -111,8 +112,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
