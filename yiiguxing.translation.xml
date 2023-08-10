@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The &lt;em&gt;annotated classes&lt;em&gt; to use for loading an {@link org.springframework.context.ApplicationContext ApplicationContext}. Can also be specified using {@link ContextConfigurationclasses() @ContextConfiguration(classes=...)}. If no explicit classes are defined the test will look for nested {@link Configuration @Configuration} classes, before falling back to a {@link SpringBootConfiguration} search. @see ContextConfigurationclasses() @return the annotated classes used to load the application context" />
       <item value="CURDATE" />
       <item value="admission" />
       <item value="Direct" />
@@ -113,8 +114,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
