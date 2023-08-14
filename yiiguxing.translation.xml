@@ -67,13 +67,15 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691544775720" />
+    <option name="lastTrimTime" value="1691995960284" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="extra" />
+      <item value="extras Two" />
       <item value="The &lt;em&gt;annotated classes&lt;em&gt; to use for loading an {@link org.springframework.context.ApplicationContext ApplicationContext}. Can also be specified using {@link ContextConfigurationclasses() @ContextConfiguration(classes=...)}. If no explicit classes are defined the test will look for nested {@link Configuration @Configuration} classes, before falling back to a {@link SpringBootConfiguration} search. @see ContextConfigurationclasses() @return the annotated classes used to load the application context" />
       <item value="CURDATE" />
       <item value="admission" />
@@ -114,8 +116,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
