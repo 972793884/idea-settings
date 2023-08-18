@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A mock implementation for BinaryLogClient, in order to unit test the connection and event handling logic" />
+      <item value="test Exclude Schema Changes" />
       <item value="set Salesman Examine" />
       <item value="prefix" />
       <item value="Async Client" />
@@ -125,8 +127,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
