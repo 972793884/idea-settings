@@ -67,13 +67,15 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691995960284" />
+    <option name="lastTrimTime" value="1692684604696" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="upload Local" />
+      <item value="upload Tripartite" />
       <item value="A mock implementation for BinaryLogClient, in order to unit test the connection and event handling logic" />
       <item value="test Exclude Schema Changes" />
       <item value="set Salesman Examine" />
@@ -122,13 +124,11 @@
       <item value="get Tenancy End Time" />
       <item value="normal Car" />
       <item value="abnormal Car" />
-      <item value="rent" />
-      <item value="Gloable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
