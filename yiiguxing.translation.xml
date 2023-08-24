@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Execute an update statement. The number of rows affected will be returned. @param statement Unique identifier matching the statement to execute. @param parameter A parameter object to pass to the statement. @return int The number of rows affected by the update." />
       <item value="upload Local" />
       <item value="upload Tripartite" />
       <item value="A mock implementation for BinaryLogClient, in order to unit test the connection and event handling logic" />
@@ -123,12 +124,11 @@
       <item value="get Rent Out Date" />
       <item value="get Tenancy End Time" />
       <item value="normal Car" />
-      <item value="abnormal Car" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
