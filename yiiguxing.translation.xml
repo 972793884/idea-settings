@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692684604696" />
+    <option name="lastTrimTime" value="1693208848655" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="pretty Format" />
       <item value="execution" />
       <item value="Execute an update statement. The number of rows affected will be returned. @param statement Unique identifier matching the statement to execute. @param parameter A parameter object to pass to the statement. @return int The number of rows affected by the update." />
       <item value="upload Local" />
@@ -123,12 +124,11 @@
       <item value="Disable Circular Reference Detect" />
       <item value="Pretty Format" />
       <item value="get Rent Out Date" />
-      <item value="get Tenancy End Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
