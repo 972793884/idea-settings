@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693208848655" />
+    <option name="lastTrimTime" value="1695111096614" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Client not connected, current status:STARTING" />
       <item value="multiplication Table" />
       <item value="is Termination" />
       <item value="pretty Format" />
@@ -123,7 +124,6 @@
       <item value="complex Type" />
       <item value="sequence" />
       <item value="Write Slash As Special" />
-      <item value="Disable Circular Reference Detect" />
     </histories>
     <option name="languageScores">
       <map>
