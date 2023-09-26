@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695111096614" />
+    <option name="lastTrimTime" value="1695719247574" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="discharge" />
       <item value="exclusion" />
       <item value="Client not connected, current status:STARTING" />
       <item value="multiplication Table" />
@@ -123,12 +124,11 @@
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections @jls 5.1.1 and @jls 5.1.4, for details. Params: cls – the Class object to be checked Returns: the boolean value indicating whether objects of the type cls can be assigned to objects of this class Throws: NullPointerException – if the specified Class parameter is null. Since: 1.1" />
       <item value="Buffered Writer" />
       <item value="complex Type" />
-      <item value="sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
