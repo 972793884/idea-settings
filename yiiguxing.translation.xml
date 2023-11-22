@@ -67,13 +67,16 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697611608607" />
+    <option name="lastTrimTime" value="1700636639512" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="initial Preview" />
+      <item value="preview File Icon" />
+      <item value="previewFileIcon: &quot;&lt;i class='glyphicon glyphicon-king'&gt;&lt;i&gt;&quot;," />
       <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
       <item value="initial Delay String" />
       <item value="mandatory" />
@@ -121,14 +124,11 @@
       <item value="several" />
       <item value="get To Day" />
       <item value="data Base Time Expression" />
-      <item value="Announcement Service" />
-      <item value="Annotation retention policy. The constants of this enumerated class describe the various policies for retaining annotations. They are used in conjunction with the Retention meta-annotation interface to specify how long annotations are to be retained." />
-      <item value="Indicates how long annotations with the annotated interface are to be retained. If no Retention annotation is present on an annotation interface declaration, the retention policy defaults to RetentionPolicy.CLASS. A Retention meta-annotation has effect only if the meta-annotated interface is used directly for annotation. It has no effect if the meta-annotated interface is used as a member interface in another annotation interface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
