@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Dealer Loan Data" />
       <item value="Quantity" />
       <item value="_get Resized Image" />
       <item value="_browse" />
@@ -123,12 +124,11 @@
       <item value="immediately" />
       <item value="protocol" />
       <item value="initials" />
-      <item value="additivity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
