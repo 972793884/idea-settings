@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1700636639512" />
+    <option name="lastTrimTime" value="1701225097808" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="register Shutdown Hook" />
       <item value="get Dealer Loan Data" />
       <item value="Quantity" />
       <item value="_get Resized Image" />
@@ -123,12 +124,11 @@
       <item value="prevents" />
       <item value="immediately" />
       <item value="protocol" />
-      <item value="initials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
