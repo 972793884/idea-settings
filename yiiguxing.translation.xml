@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706162010122" />
+    <option name="lastTrimTime" value="1709626030086" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="spouse" />
       <item value="credit Result" />
       <item value="is termination" />
       <item value="register Shutdown Hook" />
@@ -123,12 +124,11 @@
       <item value="supplementary" />
       <item value="Post Construct" />
       <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;em&gt; when it is contained within a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined within the same application context and can be ordered using the {@link Ordered} interface or {@link Order @Order} annotation. &lt;p&gt; If you need access to {@link ApplicationArguments} instead of the raw String array consider using {@link ApplicationRunner}. @author Dave Syer @since 1.0.0 @see ApplicationRunner" />
-      <item value="prevents" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
