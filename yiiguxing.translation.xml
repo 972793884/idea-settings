@@ -67,13 +67,14 @@
     <option name="lastTrimTime" value="1663737607057" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709626030086" />
+    <option name="lastTrimTime" value="1712476494502" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Tells about chunked encoding for this entity. The primary purpose of this method is to indicate whether chunked encoding should be used when the entity is sent. For entities that are received, it can also indicate whether the entity was received with chunked encoding. The behavior of wrapping entities is implementation dependent, but should respect the primary purpose. Returns: true if chunked encoding is preferred for this entity, or false if it is not" />
       <item value="spouse" />
       <item value="credit Result" />
       <item value="is termination" />
@@ -123,12 +124,11 @@
       <item value="Direct" />
       <item value="supplementary" />
       <item value="Post Construct" />
-      <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;em&gt; when it is contained within a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined within the same application context and can be ordered using the {@link Ordered} interface or {@link Order @Order} annotation. &lt;p&gt; If you need access to {@link ApplicationArguments} instead of the raw String array consider using {@link ApplicationRunner}. @author Dave Syer @since 1.0.0 @see ApplicationRunner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
