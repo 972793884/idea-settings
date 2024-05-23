@@ -30,6 +30,17 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="qeyc|1923757174300106">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
   </component>
 </application>
